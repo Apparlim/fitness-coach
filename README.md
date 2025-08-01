@@ -1,4 +1,4 @@
-# Real-Time Exercise Form Tracker
+# Fitness coach
 
 A Python-based real-time exercise form tracker using **OpenCV** and **MediaPipe**. This application detects and tracks bicep curls, counting repetitions by analyzing arm angles through pose estimation.
 
